@@ -1,3 +1,4 @@
+![AI Generated](https://img.shields.io/badge/Code-AI--Generated-blue)
 # Skyrim Quest Progress Merger (`.ess`)
 
 A zero-dependency Python CLI tool that merges **quest progress and journal state** from one Skyrim `.ess` save file into another — **without** touching character level, skills, perks, inventory/items, appearance, player location, or world containers.
